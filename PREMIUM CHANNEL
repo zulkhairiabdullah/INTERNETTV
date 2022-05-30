@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="Astro Malaysia", MY - btsport 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1, group-title="Astro Malaysia", MY - rtm 3
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/chunklist.m3u8
