@@ -1,4 +1,198 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Malaysia",TV1
-http://stream.accessnetbd.com/hls/sky12.m3u8
+#EXTINF:-1, group-title=Astro Malaysia", zulkhairi abdullah
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Astro Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Astro Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Astro Oasis
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Astro Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Astro Citra
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Naura
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - BOO
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Astro Awani
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Astro Ceria
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro Malaysia", MY - Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", PLAYLIST M3U LENGKAP DAN TERKINI
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Malaysia", blogbestmalaysia.blogspot.com
+https://www.youtube.com
+
+#EXTINF:-1 group-title="Malaysia", MY - TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY - TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY -TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY - Didik TV
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY - 8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY - TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY - Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY - Sukan RTM
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY - Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY - TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", MY - RTB Sukmaindera (Brunei)
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w1343761972_b2736000_sleng.m3u8
+
+#EXTINF:-1, group-title="Radio", PLAYLIST M3U LENGKAP DAN TERKINI
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Radio", blogbestmalaysia.blogspot.com
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Indonesia", ID - RCTI
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - MNCTV
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - GTV
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - iNews
+https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - Trans 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - Trans TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - CNBC Indonesia HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - Berita Satu HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - Daai Indonesia
+http://210.210.155.35:80/session/07b13610-2edb-11eb-ae09-c81f66f89318/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - SCTV HD VIDIO
+https://etslive-2-vidio-com.akamaized.net/exp=1622156414~acl=/hls-b/ingest_204_*/*~hmac=d2f128aff00e5fd889f654961159a7c3e319bef271a756e315c77b8825828256/hls-b/ingest_204_480p/index.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - Indosiar HD VIDIO
+https://etslive-2-vidio-com.akamaized.net/exp=1622156414~acl=/hls-b/ingest_205_*/*~hmac=1a51bb8c123cf8d499f8bc10b7187219255374292bd10690d3c25e22351be337/hls-b/ingest_205_480p/index.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - Kompas TV
+http://210.210.155.35:80/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1, group-title="Indonesia", ID - TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1, group-title="Radio", PLAYLIST M3U LENGKAP DAN TERKINI
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Radio", blogbestmalaysia.blogspot.com
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Radio", Astro - Sinar
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1, group-title="Radio", Astro - Era
+http://astro2.rastream.com/era
+
+#EXTINF:-1, group-title="Radio", Astro - Gegar
+http://astro2.rastream.com/gegar
+
+#EXTINF:-1, group-title="Radio", Astro - Raaga
+http://astro2.rastream.com/raaga
+
+#EXTINF:-1, group-title="Radio", Astro - Hitz
+http://astro1.rastream.com/hitz
+
+#EXTINF:-1, group-title="Radio", Astro - Melody
+https://astro3.rastream.com/melody
+
+#EXTINF:-1, group-title="Radio", Astro - Mix
+https://astro2.rastream.com/mix
+
+#EXTINF:-1, group-title="Radio", Astro - My
+https://astro1.rastream.com/myfm
+
+#EXTINF:-1, group-title="Radio", Astro - Astro Arena Radio
+http://astro1.rastream.com/amp-arena
+
+#EXTINF:-1, group-title="Radio", Radio - Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:-1, group-title="Radio", Radio - Kool FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1, group-title="Radio", Radio - Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1, group-title="Radio", Radio - One FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1, group-title="Radio", Radio - Bapakku FM
+http://radio.bapakku.fm:8000/
+
+#EXTINF:-1, group-title="Radio", Radio - RL Rock Jiwang
+http://procyon.shoutca.st:8346/;
+
+#EXTINF:-1, group-title="Radio", Radio - RL Retro
+http://hyades.shoutca.st:8366/
+
+#EXTINF:-1, group-title="Radio", Radio - RL Pesona
+http://curiosity.shoutca.st:6997/stream
+
+#EXTINF:-1, group-title="Radio", Radio - Cats FM
+http://catsfm64.cspixel.com:7111/stream/
+
+#EXTINF:-1, group-title="Radio", Radio - Gegar Muzik FM
+http://167.114.131.90:5316/stream
+
+#EXTINF:-1, group-title="Radio", Radio - Best FM
+http://s8.voscast.com:8686/;
