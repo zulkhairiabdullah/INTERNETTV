@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=TV 1 tvg-name=TV_1 tvg-logo=”TV 1.png” group-title=”boo”,TV 1
-http://103.60.172.106:8080/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,5HD
+https://cdn6.goprimetime.info//feed//ch5hd//index.m3u8
