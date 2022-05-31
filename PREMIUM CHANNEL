@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=TV 1 tvg-name=TV_1 tvg-logo=”TV 1.png” group-title=”boo”,TV 1
-http://vp2p2s.my6868.cc/20420/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+http://103.60.172.106:8080/SonyTVHD/tracks-v1a1/mono.m3u8
