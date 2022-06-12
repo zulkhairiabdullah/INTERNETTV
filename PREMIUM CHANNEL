@@ -92,3 +92,6 @@ http://213.183.47.50:2085/play/a00f/index.m3u8
 http://213.183.47.50:2085/play/a00z/index.m3u8
 #EXTINF:-1,TR: beIN Sports 1 HVEC
 http://213.183.47.50:2085/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png” group-title=”ASTRO | MALAYSIA”, ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6740
